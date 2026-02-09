@@ -20,11 +20,6 @@ I enjoy working close to the system layer — performance, reliability, and depl
   <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-sharmaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-sharmaaa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-sharmaaa&layout=compact&langs_count=6&theme=tokyonight" />
-</div>
-
 ---
 
 ### 🛠️ Tech Stack

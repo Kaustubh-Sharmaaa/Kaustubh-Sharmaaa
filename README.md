@@ -44,11 +44,11 @@ I enjoy working close to the system layer — performance, reliability, and depl
 ---
 
 ### ⚡ My Pokémon Team
-<div align="center">
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" alt="Pikachu" />
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" alt="Squirtle" />
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="Lucario" />
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" alt="Charmander" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" alt="Charizard" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/dialga.gif" alt="Dialga" />
 </div>
 
 ---
@@ -62,4 +62,10 @@ I enjoy working close to the system layer — performance, reliability, and depl
   <a href="mailto:officialkaustubh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaustubh-sharmaaa&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </div>

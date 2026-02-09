@@ -22,7 +22,7 @@ I enjoy working close to the system layer — performance, reliability, and depl
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-sharmaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-sharmaaa&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 ---

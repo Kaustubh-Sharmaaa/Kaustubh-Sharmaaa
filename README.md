@@ -41,15 +41,7 @@ I enjoy working close to the system layer — performance, reliability, and depl
 
 </div>
 
----
 
-### ⚡ My Pokémon Team
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" alt="Pikachu" />
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" alt="Squirtle" />
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="Lucario" />
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" alt="Charizard" />
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/dialga.gif" alt="Dialga" />
-</div>
 
 ---
 
@@ -57,11 +49,22 @@ I enjoy working close to the system layer — performance, reliability, and depl
 
 <div align="center">
   <a href="https://linkedin.com/in/kaustubhsharma08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:officialkaustubh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <b>My Pokémon Team</b><br/>
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" alt="Pikachu" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" alt="Squirtle" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" alt="Lucario" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" alt="Charizard" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/dialga.gif" alt="Dialga" />
 </div>
 
 <br />

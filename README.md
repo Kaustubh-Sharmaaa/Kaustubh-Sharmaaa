@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hi%2C+I'm+Kaustubh+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Backend+Systems+%E2%9A%99%EF%B8%8F;Pok%C3%A9mon+Master+%E2%9A%A1" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=500&height=50&lines=Hi%2C+I'm+Kaustubh+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Backend+Systems+%E2%9A%99%EF%B8%8F;" alt="Typing SVG" />
 
 I'm a Software Engineer focused on building **scalable backend systems, clean APIs, and ML-integrated pipelines**.  
 I enjoy working close to the system layer — performance, reliability, and deployment matter to me.
@@ -67,8 +67,8 @@ I enjoy working close to the system layer — performance, reliability, and depl
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/dialga.gif" alt="Dialga" />
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubh-sharmaaa&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+  <b>Wanna battle? ⚔️</b>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=kaustubh-sharmaaa&style=flat-square&color=blue&label=Profile+Views" style="display: none;" alt="Profile Views" />
 </div>

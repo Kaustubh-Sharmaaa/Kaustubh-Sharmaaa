@@ -16,11 +16,11 @@ I enjoy working close to the system layer — performance, reliability, and depl
 
 ### 📊 GitHub Stats
 
-<!-- 
-  GitHub Readme Stats is currently down (Vercel deployment paused).
-  Uncomment these when the service is back up.
+
+  <!-- GitHub Readme Stats is currently down (Vercel deployment paused).
+  Uncomment these when the service is back up. -->
   <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-sharmaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
--->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-sharmaaa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 ---

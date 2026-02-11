@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=500&height=80&size=35&lines=Hi%2C+I'm+Kaustubh+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
 
 <div align="center">
-  <i>"Write code like the next person to maintain it is a mass murderer who knows where you live."</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=%22Write+code+like+the+next+person+to+maintain+it+is+a+mass+murderer+who+knows+where+you+live.%22" alt="Quote" />
 </div>
 
 <br/>

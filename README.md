@@ -22,11 +22,13 @@ When I'm not writing code, I'm probably arguing about system design or training 
 
 ### 🔍 What I Work On
 
-🔹 Designing and implementing **backend services** with clear boundaries
-🔸 Building **production-ready APIs** and data pipelines
-🚀 Integrating **ML/AI workflows** into real systems
-⚡ Improving **performance, latency, and reliability**
-🛠️ Containerization, CI/CD, and cloud-native deployment
+| | |
+|---|---|
+| 🔹 **Backend Services** | Designing and implementing services with clear boundaries |
+| 🔸 **APIs & Pipelines** | Building production-ready APIs and data pipelines |
+| 🚀 **ML/AI Integration** | Plugging ML/AI workflows into real systems |
+| ⚡ **Performance** | Improving latency, throughput, and reliability |
+| 🛠️ **DevOps** | Containerization, CI/CD, and cloud-native deployment |
 
 ---
 
@@ -80,9 +82,11 @@ When I'm not writing code, I'm probably arguing about system design or training 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-sharmaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaustubh-sharmaaa&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh-sharmaaa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaustubh-sharmaaa&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaustubh-sharmaaa&theme=tokyonight" alt="Top Languages by Commit" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh-sharmaaa&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" />
 </div>
@@ -142,8 +146,3 @@ When I'm not writing code, I'm probably arguing about system design or training 
   <b>Wanna battle? ⚔️</b>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaustubh-sharmaaa&style=for-the-badge&color=2196F3" alt="Profile Views" />
-</div>
